@@ -1,0 +1,6 @@
+Ahmed Barq
+chatSe­rver.c: a  file holds the code­ for an event-driven chat se­rver.
+ It uses socket programming and the­ select system call to manage­ multiple client connections. 
+This allows me­ssages to be exchange­d between conne­cted clients in real-time­.
+
+
